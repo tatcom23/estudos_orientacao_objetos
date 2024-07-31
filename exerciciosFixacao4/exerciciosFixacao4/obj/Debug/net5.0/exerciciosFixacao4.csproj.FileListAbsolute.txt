@@ -1,0 +1,16 @@
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\bin\Debug\net5.0\exerciciosFixacao4.exe
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\bin\Debug\net5.0\exerciciosFixacao4.deps.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\bin\Debug\net5.0\exerciciosFixacao4.runtimeconfig.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\bin\Debug\net5.0\exerciciosFixacao4.runtimeconfig.dev.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\bin\Debug\net5.0\exerciciosFixacao4.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\bin\Debug\net5.0\ref\exerciciosFixacao4.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\bin\Debug\net5.0\exerciciosFixacao4.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\obj\Debug\net5.0\exerciciosFixacao4.csproj.AssemblyReference.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\obj\Debug\net5.0\exerciciosFixacao4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\obj\Debug\net5.0\exerciciosFixacao4.AssemblyInfoInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\obj\Debug\net5.0\exerciciosFixacao4.AssemblyInfo.cs
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\obj\Debug\net5.0\exerciciosFixacao4.csproj.CoreCompileInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\obj\Debug\net5.0\exerciciosFixacao4.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\obj\Debug\net5.0\ref\exerciciosFixacao4.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\obj\Debug\net5.0\exerciciosFixacao4.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exerciciosFixacao4\exerciciosFixacao4\obj\Debug\net5.0\exerciciosFixacao4.genruntimeconfig.cache

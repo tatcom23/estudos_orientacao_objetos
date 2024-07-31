@@ -1,0 +1,16 @@
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.exe
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.deps.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.runtimeconfig.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.runtimeconfig.dev.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\ref\MembrosEstaticos.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\bin\Debug\net5.0\MembrosEstaticos.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\ref\MembrosEstaticos.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\MembrosEstaticos\MembrosEstaticos\obj\Debug\net5.0\MembrosEstaticos.genruntimeconfig.cache

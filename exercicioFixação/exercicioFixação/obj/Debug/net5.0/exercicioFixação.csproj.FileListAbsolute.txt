@@ -1,0 +1,16 @@
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\bin\Debug\net5.0\exercicioFixação.exe
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\bin\Debug\net5.0\exercicioFixação.deps.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\bin\Debug\net5.0\exercicioFixação.runtimeconfig.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\bin\Debug\net5.0\exercicioFixação.runtimeconfig.dev.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\bin\Debug\net5.0\exercicioFixação.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\bin\Debug\net5.0\ref\exercicioFixação.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\bin\Debug\net5.0\exercicioFixação.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\obj\Debug\net5.0\exercicioFixação.csproj.AssemblyReference.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\obj\Debug\net5.0\exercicioFixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\obj\Debug\net5.0\exercicioFixação.AssemblyInfoInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\obj\Debug\net5.0\exercicioFixação.AssemblyInfo.cs
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\obj\Debug\net5.0\exercicioFixação.csproj.CoreCompileInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\obj\Debug\net5.0\exercicioFixação.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\obj\Debug\net5.0\ref\exercicioFixação.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\obj\Debug\net5.0\exercicioFixação.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixação\exercicioFixação\obj\Debug\net5.0\exercicioFixação.genruntimeconfig.cache

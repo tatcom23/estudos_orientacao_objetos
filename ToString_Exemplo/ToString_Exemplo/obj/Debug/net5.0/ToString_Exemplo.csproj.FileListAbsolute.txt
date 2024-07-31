@@ -1,0 +1,16 @@
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\bin\Debug\net5.0\ToString_Exemplo.exe
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\bin\Debug\net5.0\ToString_Exemplo.deps.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\bin\Debug\net5.0\ToString_Exemplo.runtimeconfig.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\bin\Debug\net5.0\ToString_Exemplo.runtimeconfig.dev.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\bin\Debug\net5.0\ToString_Exemplo.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\bin\Debug\net5.0\ref\ToString_Exemplo.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\bin\Debug\net5.0\ToString_Exemplo.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\obj\Debug\net5.0\ToString_Exemplo.csproj.AssemblyReference.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\obj\Debug\net5.0\ToString_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\obj\Debug\net5.0\ToString_Exemplo.AssemblyInfoInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\obj\Debug\net5.0\ToString_Exemplo.AssemblyInfo.cs
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\obj\Debug\net5.0\ToString_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\obj\Debug\net5.0\ToString_Exemplo.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\obj\Debug\net5.0\ref\ToString_Exemplo.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\obj\Debug\net5.0\ToString_Exemplo.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ToString_Exemplo\ToString_Exemplo\obj\Debug\net5.0\ToString_Exemplo.genruntimeconfig.cache

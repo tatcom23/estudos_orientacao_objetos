@@ -1,0 +1,16 @@
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net5.0\ExercicioFuncionario.csproj.AssemblyReference.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net5.0\ExercicioFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net5.0\ExercicioFuncionario.AssemblyInfoInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net5.0\ExercicioFuncionario.AssemblyInfo.cs
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net5.0\ExercicioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net5.0\ExercicioFuncionario.exe
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net5.0\ExercicioFuncionario.deps.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net5.0\ExercicioFuncionario.runtimeconfig.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net5.0\ExercicioFuncionario.runtimeconfig.dev.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net5.0\ExercicioFuncionario.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net5.0\ref\ExercicioFuncionario.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\bin\Debug\net5.0\ExercicioFuncionario.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net5.0\ExercicioFuncionario.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net5.0\ref\ExercicioFuncionario.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net5.0\ExercicioFuncionario.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\ExercicioFuncionario\ExercicioFuncionario\obj\Debug\net5.0\ExercicioFuncionario.genruntimeconfig.cache

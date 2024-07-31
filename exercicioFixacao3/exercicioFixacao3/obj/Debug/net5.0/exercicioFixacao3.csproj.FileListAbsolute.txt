@@ -1,0 +1,15 @@
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\bin\Debug\net5.0\exercicioFixacao3.exe
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\bin\Debug\net5.0\exercicioFixacao3.deps.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\bin\Debug\net5.0\exercicioFixacao3.runtimeconfig.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\bin\Debug\net5.0\exercicioFixacao3.runtimeconfig.dev.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\bin\Debug\net5.0\exercicioFixacao3.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\bin\Debug\net5.0\ref\exercicioFixacao3.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\bin\Debug\net5.0\exercicioFixacao3.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\obj\Debug\net5.0\exercicioFixacao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\obj\Debug\net5.0\exercicioFixacao3.AssemblyInfoInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\obj\Debug\net5.0\exercicioFixacao3.AssemblyInfo.cs
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\obj\Debug\net5.0\exercicioFixacao3.csproj.CoreCompileInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\obj\Debug\net5.0\exercicioFixacao3.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\obj\Debug\net5.0\ref\exercicioFixacao3.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\obj\Debug\net5.0\exercicioFixacao3.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\exercicioFixacao3\exercicioFixacao3\obj\Debug\net5.0\exercicioFixacao3.genruntimeconfig.cache
