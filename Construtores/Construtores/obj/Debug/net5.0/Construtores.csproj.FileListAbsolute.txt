@@ -1,0 +1,16 @@
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\bin\Debug\net5.0\Construtores.exe
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\bin\Debug\net5.0\Construtores.deps.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\bin\Debug\net5.0\Construtores.runtimeconfig.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\bin\Debug\net5.0\Construtores.runtimeconfig.dev.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\bin\Debug\net5.0\Construtores.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\bin\Debug\net5.0\Construtores.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\obj\Debug\net5.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\obj\Debug\net5.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\obj\Debug\net5.0\Construtores.AssemblyInfo.cs
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\obj\Debug\net5.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\obj\Debug\net5.0\Construtores.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\obj\Debug\net5.0\ref\Construtores.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\obj\Debug\net5.0\Construtores.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\obj\Debug\net5.0\Construtores.genruntimeconfig.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\obj\Debug\net5.0\Construtores.csproj.AssemblyReference.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\Construtores\Construtores\bin\Debug\net5.0\ref\Construtores.dll
