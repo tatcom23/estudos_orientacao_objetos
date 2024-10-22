@@ -1,0 +1,16 @@
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\bin\Debug\net5.0\add_employee.exe
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\bin\Debug\net5.0\add_employee.deps.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\bin\Debug\net5.0\add_employee.runtimeconfig.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\bin\Debug\net5.0\add_employee.runtimeconfig.dev.json
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\bin\Debug\net5.0\add_employee.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\bin\Debug\net5.0\ref\add_employee.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\bin\Debug\net5.0\add_employee.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\obj\Debug\net5.0\add_employee.csproj.AssemblyReference.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\obj\Debug\net5.0\add_employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\obj\Debug\net5.0\add_employee.AssemblyInfoInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\obj\Debug\net5.0\add_employee.AssemblyInfo.cs
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\obj\Debug\net5.0\add_employee.csproj.CoreCompileInputs.cache
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\obj\Debug\net5.0\add_employee.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\obj\Debug\net5.0\ref\add_employee.dll
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\obj\Debug\net5.0\add_employee.pdb
+C:\Users\31605759856\Desktop\Tati\C#\projetos\add_employee\add_employee\obj\Debug\net5.0\add_employee.genruntimeconfig.cache
